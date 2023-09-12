@@ -1,0 +1,16 @@
+class Swapnil{
+
+public Static void main(String [] arg){
+System.out.println("hello everyone");
+}
+}
+
+error:
+Microsoft Windows [Version 10.0.19045.2965]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\demo\MKPITS\fold>javac swapnil.xml
+error: Class names, 'swapnil.xml', are only accepted if annotation processing is explicitly requested
+1 error
+
+D:\demo\MKPITS\fold> 
